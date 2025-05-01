@@ -1,6 +1,7 @@
 # Apna-Ghr-Internship
 
 **PG Listing Portal**
+
 A clean, responsive React application for students to browse and filter rental properties.
 
 Features
@@ -22,17 +23,29 @@ Project Structure
 
 pg-listing-portal/
 ├── public/
-│   └── index.html               
+
+│   └── index.html   
+
 ├── src/
+
 │   ├── components/
-│   │   ├── FilterBar.jsx        
-│   │   └── PropertyCard.jsx     
+
+│   │   ├── FilterBar.jsx  
+
+│   │   └── PropertyCard.jsx  
+
 │   ├── data/
-│   │   └── properties.js        
-│   ├── App.jsx                  
-│   ├── main.jsx                 
-│   └── index.css              
-├── package.json                                      
+
+│   │   └── properties.js 
+
+│   ├── App.jsx    
+
+│   ├── main.jsx   
+
+│   └── index.css 
+
+├── package.json  
+
 
 Running the Project
 Prerequisites
@@ -44,8 +57,7 @@ Installation
 
 Clone the repository:
 
-bashgit clone https://github.com/yourusername/campus-cribs.git
-cd campus-cribs
+bashgit clone https://github.com/Harsha71020/Apna-Ghr-Internship
 
 Install dependencies:
 
@@ -80,4 +92,4 @@ Reviews & Ratings: Let students rate and review properties
 License
 MIT
 Contact
-For questions or feedback, please reach out to your-email@example.com or open an issue on GitHub.
+For questions or feedback, please reach out to gggpharshavardhan@gmail.com or open an issue on GitHub.
