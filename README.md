@@ -22,6 +22,7 @@ JavaScript: ES6+ features for clean, maintainable code
 Project Structure
 
 pg-listing-portal/
+
 ├── public/
 
 │   └── index.html   
