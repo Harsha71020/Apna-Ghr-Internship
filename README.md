@@ -5,6 +5,7 @@
 A clean, responsive React application for students to browse and filter rental properties.
 
 Features
+
 Property Listings: Display rental properties with details like price, location, and availability
 Search & Filter: Find properties by keywords, location, price range, and availability date
 Responsive Design: Works seamlessly on desktop, tablet, and mobile devices
