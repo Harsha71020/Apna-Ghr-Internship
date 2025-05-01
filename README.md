@@ -64,18 +64,23 @@ bashgit clone https://github.com/Harsha71020/Apna-Ghr-Internship
 Install dependencies:
 
 bashnpm install
+
 # or 
+
 yarn install
 
 Start the development server:
 
 bashnpm start
+
 # or
+
 yarn start
 
 Open your browser and navigate to http://localhost:3000
 
 Deployment
+
 This application can be easily deployed to platforms like Netlify, Vercel, or GitHub Pages:
 Netlify Deployment
 bashnpm install -g netlify-cli
@@ -85,13 +90,21 @@ bashnpm run deploy
 Future Enhancements
 
 Advanced Filtering: Add more filters like pet-friendly, furnished, etc.
+
 Map Integration: Show property locations on an interactive map
+
 User Profiles: Allow users to create and manage profiles
+
 Property Management: Enable landlords to list and manage properties
+
 Messaging System: Direct communication between students and landlords
+
 Reviews & Ratings: Let students rate and review properties
 
 License
+
 MIT
+
 Contact
+
 For questions or feedback, please reach out to gggpharshavardhan@gmail.com or open an issue on GitHub.
