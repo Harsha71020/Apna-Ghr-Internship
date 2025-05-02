@@ -27,36 +27,14 @@ A clean, responsive React application for students to browse and filter rental p
 **Core Technologies**
 
 **React.js:** Frontend library for building the user interface
+
 **CSS:** Styling with responsive design principles using Tailwind utility classes
+
 **JavaScript:** ES6+ features for clean, maintainable code
 
 **Project Structure**
 
-pg-listing-portal/
-
-├── public/
-
-│   └── index.html   
-
-├── src/
-
-│   ├── components/
-
-│   │   ├── FilterBar.jsx  
-
-│   │   └── PropertyCard.jsx  
-
-│   ├── data/
-
-│   │   └── properties.js 
-
-│   ├── App.jsx    
-
-│   ├── main.jsx   
-
-│   └── index.css 
-
-├── package.json  
+![image](https://github.com/user-attachments/assets/d152123b-6d51-4d46-891a-8fbdcd1f536a)
 
 
 **Running the Project**
