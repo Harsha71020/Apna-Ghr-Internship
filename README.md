@@ -25,3 +25,14 @@ A clean and responsive **React** application designed to help students browse an
 
 ## 📁 Project Structure
 
+/apna-ghr
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── assets/
+│ ├── App.js
+│ └── index.js
+├── .gitignore
+├── package.json
+└── README.md
