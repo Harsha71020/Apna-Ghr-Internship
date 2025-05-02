@@ -6,20 +6,25 @@ Welcome to the **Apna-Ghr Internship** project! This is a **PG Listing Portal**,
 
 ## Features
 
-- **Property Listings**: View rental properties with detailed information such as price, location, and availability.
-- **Search & Filter**: Filter properties by location, price, availability, and more.
-- **Responsive Design**: Fully responsive UI that works well on desktop, tablet, and mobile devices.
-- **User Authentication**: Users can log in to save and manage their favorite properties.
-- **Favorites**: Logged-in users can save their favorite properties for quick access.
-- **Pagination**: Easy navigation through large property listings.
+- **Property Listings**: View rental properties with detailed information such as price, location, and availability.  
+
+- **Search & Filter**: Filter properties by location, price, availability, and more.  
+
+- **Responsive Design**: Fully responsive UI that works well on desktop, tablet, and mobile devices.  
+
+- **User Authentication**: Users can log in to save and manage their favorite properties.  
+
+- **Favorites**: Logged-in users can save their favorite properties for quick access.  
+
+- **Pagination**: Easy navigation through large property listings.  
 
 ---
 
 ## Technologies Used
 
-- **Frontend**: `React.js`
-- **Styling**: `Tailwind CSS` for utility-first CSS.
-- **JavaScript**: Modern ES6+ features for clean and maintainable code.
+- **Frontend**: `React.js`  
+- **Styling**: `Tailwind CSS` for utility-first CSS.  
+- **JavaScript**: Modern ES6+ features for clean and maintainable code.  
 
 ---
 
@@ -27,17 +32,28 @@ Welcome to the **Apna-Ghr Internship** project! This is a **PG Listing Portal**,
 
 Here’s a quick look at the structure of the project:
 
-/apna-ghr
+/PG-LISTING-PORTAL
+
 ├── public/ # Static files (images, icons, etc.)
+
 ├── src/ # React components and logic
+
 │ ├── components/ # UI components (Button, Card, etc.)
+
 │ ├── pages/ # Pages (Home, Property Detail, etc.)
+
 │ ├── assets/ # Images, icons, etc.
+
 │ ├── App.js # Main React component
+
 │ └── index.js # Entry point of the React app
+
 ├── .gitignore # Git ignore rules
+
 ├── package.json # NPM dependencies and scripts
+
 └── README.md # Project documentation
+
 
 yaml
 Copy
@@ -51,21 +67,21 @@ Edit
 
 Ensure you have the following installed on your machine:
 
-- **Node.js** (v14 or higher)
-- **npm** or **yarn** (package manager)
+- **Node.js** (v14 or higher)  
+- **npm** or **yarn** (package manager)  
 
 ### Steps to Install
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Harsha71020/Apna-Ghr-Internship.git
+   git clone https://github.com/Harsha71020/Apna-Ghr-Internship.git  
 Navigate to the project directory:
 
 bash
 Copy
 Edit
-cd Apna-Ghr-Internship
+cd Apna-Ghr-Internship  
 Install dependencies:
 
 Using npm:
@@ -73,13 +89,13 @@ Using npm:
 bash
 Copy
 Edit
-npm install
+npm install  
 Or, if you prefer Yarn:
 
 bash
 Copy
 Edit
-yarn install
+yarn install  
 Running the Project Locally
 Once the dependencies are installed, you can start the development server.
 
@@ -88,7 +104,7 @@ Start the server:
 bash
 Copy
 Edit
-npm start
+npm start  
 Open http://localhost:3000 in your browser to view the application.
 
 Deployment
@@ -100,20 +116,20 @@ Install the Netlify CLI (if you don't have it installed):
 bash
 Copy
 Edit
-npm install -g netlify-cli
+npm install -g netlify-cli  
 Deploy to Netlify:
 
 bash
 Copy
 Edit
-netlify deploy
+netlify deploy  
 Deploy on GitHub Pages
 To deploy on GitHub Pages, run:
 
 bash
 Copy
 Edit
-npm run deploy
+npm run deploy  
 Future Enhancements
 We plan to improve the platform with the following features:
 
