@@ -1,8 +1,12 @@
 # Apna-Ghr-Internship
 
+
+
 A) **PG Listing Portal**
 
 A clean, responsive React application for students to browse and filter rental properties.
+
+
 
 B) **The Interface Look Like The Pictures uploaded Below**
 
@@ -11,6 +15,8 @@ B) **The Interface Look Like The Pictures uploaded Below**
 ![Screenshot 2025-05-02 141528](https://github.com/user-attachments/assets/2eadd77c-c0c9-49db-b09c-93277a341bc6)
 
 ![Screenshot 2025-05-02 141621](https://github.com/user-attachments/assets/838d6e41-bfce-4e29-a0e2-344380396cf1)
+
+
 
 
 C)**Features**
@@ -27,6 +33,8 @@ C)**Features**
 
 6) **Pagination:** Navigate through property listings with ease
 
+
+
 D) **Technical Implementation**
 
 **Core Technologies**
@@ -37,9 +45,13 @@ D) **Technical Implementation**
 
 **JavaScript:** ES6+ features for clean, maintainable code
 
+
+
 E) **Project Structure**
 
 ![image](https://github.com/user-attachments/assets/d152123b-6d51-4d46-891a-8fbdcd1f536a)
+
+
 
 
 F) **Running the Project**
@@ -82,6 +94,8 @@ This application can be easily deployed to platforms like Netlify, Vercel, or Gi
 4) bashnpm run deploy
 
 
+
+
 G) **Future Enhancements**
 
 **Advanced Filtering:** Add more filters like pet-friendly, furnished, etc.
@@ -95,6 +109,7 @@ G) **Future Enhancements**
 **Messaging System:** Direct communication between students and landlords
 
 **Reviews & Ratings:** Let students rate and review properties
+
 
 
 **License**
