@@ -1,10 +1,10 @@
 # Apna-Ghr-Internship
 
-*) **PG Listing Portal**
+A) **PG Listing Portal**
 
 A clean, responsive React application for students to browse and filter rental properties.
 
-*) **The Interface Look Like The Pictures uploaded Below**
+B) **The Interface Look Like The Pictures uploaded Below**
 
 ![Screenshot 2025-05-02 141426](https://github.com/user-attachments/assets/4b16ac92-892b-40d2-bbca-63804832a53c)
 
@@ -13,16 +13,21 @@ A clean, responsive React application for students to browse and filter rental p
 ![Screenshot 2025-05-02 141621](https://github.com/user-attachments/assets/838d6e41-bfce-4e29-a0e2-344380396cf1)
 
 
-**Features**
+C)**Features**
 
-**Property Listings:** Display rental properties with details like price, location, and availability
-**Search & Filter:** Find properties by keywords, location, price range, and availability date
-**Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices
-**User Authentication:** Simple login functionality to enable saving favorites
-**Favorites:** Logged-in users can save properties to their favorites list
-**Pagination:** Navigate through property listings with ease
+1) **Property Listings:** Display rental properties with details like price, location, and availability
 
-**Technical Implementation**
+2) **Search & Filter:** Find properties by keywords, location, price range, and availability date
+
+3) **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices
+
+4) **User Authentication:** Simple login functionality to enable saving favorites
+
+5) **Favorites:** Logged-in users can save properties to their favorites list
+
+6) **Pagination:** Navigate through property listings with ease
+
+D) **Technical Implementation**
 
 **Core Technologies**
 
@@ -32,12 +37,12 @@ A clean, responsive React application for students to browse and filter rental p
 
 **JavaScript:** ES6+ features for clean, maintainable code
 
-**Project Structure**
+E) **Project Structure**
 
 ![image](https://github.com/user-attachments/assets/d152123b-6d51-4d46-891a-8fbdcd1f536a)
 
 
-**Running the Project**
+F) **Running the Project**
 
 **Prerequisites**
 
@@ -56,7 +61,7 @@ bashgit clone https://github.com/Harsha71020/Apna-Ghr-Internship
 bashnpm install
 
 
-Start the development server:
+**Start the development server:**
 
 1) bashnpm start
 
@@ -77,7 +82,7 @@ This application can be easily deployed to platforms like Netlify, Vercel, or Gi
 4) bashnpm run deploy
 
 
-**Future Enhancements**
+G) **Future Enhancements**
 
 **Advanced Filtering:** Add more filters like pet-friendly, furnished, etc.
 
