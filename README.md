@@ -55,9 +55,6 @@ Here’s a quick look at the structure of the project:
 └── README.md # Project documentation
 
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -79,9 +76,9 @@ Ensure you have the following installed on your machine:
 Navigate to the project directory:
 
 bash
-Copy
-Edit
+
 cd Apna-Ghr-Internship  
+
 Install dependencies:
 
 Using npm:
