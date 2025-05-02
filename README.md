@@ -7,15 +7,10 @@ Welcome to the **Apna-Ghr Internship** project! This is a **PG Listing Portal**,
 ## Features
 
 - **Property Listings**: View rental properties with detailed information such as price, location, and availability.
-
 - **Search & Filter**: Filter properties by location, price, availability, and more.
-
 - **Responsive Design**: Fully responsive UI that works well on desktop, tablet, and mobile devices.
-
 - **User Authentication**: Users can log in to save and manage their favorite properties.
-
 - **Favorites**: Logged-in users can save their favorite properties for quick access.
-
 - **Pagination**: Easy navigation through large property listings.
 
 ---
@@ -52,11 +47,10 @@ Edit
 
 ## Installation
 
-To run this project locally, follow these steps:
-
 ### Prerequisites
 
 Ensure you have the following installed on your machine:
+
 - **Node.js** (v14 or higher)
 - **npm** or **yarn** (package manager)
 
