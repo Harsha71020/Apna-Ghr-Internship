@@ -1,10 +1,10 @@
 # Apna-Ghr-Internship
 
-#**PG Listing Portal**
+*) **PG Listing Portal**
 
 A clean, responsive React application for students to browse and filter rental properties.
 
-**The Interface Look Like The Pictures uploaded Below**
+*) **The Interface Look Like The Pictures uploaded Below**
 
 ![Screenshot 2025-05-02 141426](https://github.com/user-attachments/assets/4b16ac92-892b-40d2-bbca-63804832a53c)
 
