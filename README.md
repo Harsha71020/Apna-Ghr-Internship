@@ -1,4 +1,4 @@
-# Apna-Ghr Internship – PG Listing Portal
+# PG Listing Portal
 
 Welcome to the **Apna-Ghr Internship** project! This is a **PG Listing Portal**, built using **React** to help students browse, filter, and find rental properties.
 
